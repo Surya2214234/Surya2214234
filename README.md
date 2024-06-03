@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?w=1800&t=st=1717400048~exp=1717400648~hmac=76ef5b6624eb2a916eb5363276026f5f55babb68f3b522854447090951ef5528)
+![MasterHead](https://img.freepik.com/premium-vector/software-testing-looking-closer-closeup-source-code-script-find-bug_1162612-4191.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Surya </h1>
 <h3 align="center">A passionate Software Automation tester from India</h3>
 <img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
